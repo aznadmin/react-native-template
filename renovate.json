@@ -1,0 +1,5 @@
+{
+  "extends": ["@artsy:app", ":automergePatch", "helpers:pinGitHubActionDigests"],
+  "assignees": ["gkartalis", "brainbicycle"],
+  "reviewers": ["gkartalis", "brianbicycle"]
+}
